@@ -12,6 +12,8 @@
 - With guidance from ChatGPT, enhanced the chatbot to follow the "Chain of Thought" prompt pattern.
 - Asked several questions related to the "Education" domain and received detailed, accurate responses.
 
+Link to youtube: https://youtu.be/Q4VGyFr6Cyo
+
 
 ### Setting Up LLAMA3:
 
