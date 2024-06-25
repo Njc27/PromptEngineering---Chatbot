@@ -1,6 +1,18 @@
 # PromptEngineering-Chatbot
 
 
+# Detailed instructions to set up and to run the application:
+
+- Installed Streamlit using the command: pip install streamlit.
+- Installed necessary modules including transformers and requests.
+- Started the LLaMA model by executing the command: ollama run llama3, ensuring it was running on port 11434.
+- Collaborated with ChatGPT to write a Python script for a basic chatbot.
+- Launched the chatbot using: streamlit run chatbot.py, with Streamlit serving as the frontend interface.
+- Iterated with basic greetings and domain-specific commands to train the model.
+- With guidance from ChatGPT, enhanced the chatbot to follow the "Chain of Thought" prompt pattern.
+- Asked several questions related to the "Education" domain and received detailed, accurate responses.
+
+
 ### Setting Up LLAMA3:
 
 #### Download and Installation
